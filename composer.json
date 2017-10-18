@@ -1,0 +1,13 @@
+{
+    "name": "zhoukang/composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhou5210",
+            "email": "1125035618@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
